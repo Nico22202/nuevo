@@ -1,0 +1,14 @@
+.navbar {
+  background-color: lightcoral;
+  color: white;
+  display: flex;
+  position: fixed;
+}
+
+
+.fut {
+
+  background-color: lightcoral;
+  text-align: center;
+  padding: 10px;
+}
